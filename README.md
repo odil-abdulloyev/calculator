@@ -1,2 +1,3 @@
-# odil-abdulloyev-JS2020Q3
-Private repository for @odil-abdulloyev
+# Calculator
+
+Deploy: [https://odil-abdulloyev.github.io/calculator/](https://odil-abdulloyev.github.io/calculator/)
